@@ -1,0 +1,29 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+h1 { 
+    font-size: 3rem;
+    color: rgb(168, 167, 167);
+  text-transform: uppercase;}
+
+.startUpButton {
+  width: 170px;
+  height: 40px;
+  border-radius: 5px;
+  color: white;
+  background-color: red;
+  position: relative;
+  top: 520px;
+  left: 550px;
+
+}
